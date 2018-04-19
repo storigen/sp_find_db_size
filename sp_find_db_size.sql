@@ -1,4 +1,3 @@
-/****** Object:  StoredProcedure [dbo].[sp_CC_ExternalMeasures_1StagingCleanup]    Script Date: 04/19/2018 12:27:00 ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
